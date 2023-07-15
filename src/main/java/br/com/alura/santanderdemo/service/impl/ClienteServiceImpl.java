@@ -24,6 +24,7 @@ public class ClienteServiceImpl implements ClienteService {
 
         List<ClienteDTO> clienteDTOS = new ArrayList<>();
 
+        // teste teste teste
 
         clienteEntities.forEach(clienteEntity -> {
             ClienteDTO clienteDTO = new ClienteDTO();
